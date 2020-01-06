@@ -1,5 +1,8 @@
 theme: minima
-title: The most powerful power bank in the word
+---
+title: "The most powerful power bank in the word"
+date: 2020-01-07
+---
 author: Alex Wong
 email: alex0972112871@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
